@@ -2,7 +2,7 @@
 PLC programs for Rockwell Allen Bradley for existing products such as TXM,TSM, STF, ST, MDX, SV200, SSDC
 
 
-Use Application note #46 for our EhterNet/IP products communication with ROCKWELL PLCs.
+Use Application note #46 (.zip) for our EhterNet/IP products communication with ROCKWELL PLCs.
 
 **Note**:- This package does not included example PLC programs for Micrologix PLC. 
            However, for newer verion of Micrologix PLC, user can reference given AOIs.
